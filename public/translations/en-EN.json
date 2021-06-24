@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "LitStarter",
+    "language_select": "Select language:",
+    "language_de": "DE",
+    "language_en": "EN"
+  },
+  "pages": {
+    "main": {
+      "title": "Starting page",
+      "welcome": "Welcome to LitElement starter kit!"
+    },
+    "page1": {
+      "title": "Page 1",
+      "text": "Content of page 1..."
+    },
+    "page2": {
+      "title": "Page 2",
+      "text": "Content of page 2..."
+    }
+  },
+  "footer": {
+    "link": "<a href='https://github.com/stefanholzapfel/lit-starter.git'>Go to GitHub repo...</a>"
+  }
+}

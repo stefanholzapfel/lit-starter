@@ -1,0 +1,38 @@
+@import '@shoelace-style/shoelace/dist/themes/base.css';
+
+@font-face {
+  font-family: 'EkMukta-Light';
+  src: url('/fonts/EkMukta-Light.woff') format('truetype');
+}
+
+@font-face {
+  font-family: 'EkMukta-SemiBold';
+  src: url('/fonts/EkMukta-SemiBold.woff') format('truetype');
+}
+
+body {
+  font-family: 'EkMukta-Light', sans-serif;
+  font-size: 1rem;
+  color: black;
+  margin: 0;
+  overflow: hidden;
+
+  --color-red: #dc4c4c;
+  --color-green: #bfdeb2;
+  --color-yellow: #ffe7b8;
+  --color-blue: #2c89a0;
+
+  --default-padding: 1rem;
+
+  --sl-color-primary-50: #F0F0F0;
+  --sl-color-primary-100: #D9D9D9;
+  --sl-color-primary-200: #C1C1C1;
+  --sl-color-primary-300: #AAAAAA;
+  --sl-color-primary-400: #929292;
+  --sl-color-primary-500: #7B7B7B;
+  --sl-color-primary-600: #636363;
+  --sl-color-primary-700: #4C4C4C;
+  --sl-color-primary-800: #343434;
+  --sl-color-primary-900: #1D1D1D;
+
+}

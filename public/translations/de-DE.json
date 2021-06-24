@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "LitStarter",
+    "language_select": "Sprache wählen:",
+    "language_de": "DE",
+    "language_en": "EN"
+  },
+  "pages": {
+    "main": {
+      "title": "Startseite",
+      "welcome": "Willkommen beim Lit Element Starter Kit!"
+    },
+    "page1": {
+      "title": "Seite 1",
+      "text": "Inhalt der Seite 1..."
+    },
+    "page2": {
+      "title": "Seite 2",
+      "text": "Inhalt der Seite 2..."
+    }
+  },
+  "footer": {
+    "link": "<a href='https://github.com/stefanholzapfel/lit-element-starter-kit.git'>Zum GitHub repo...</a>"
+  }
+}

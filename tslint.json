@@ -1,0 +1,62 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {
+        "quotemark": [true, "single"],
+        "trailing-comma": false,
+        "object-literal-sort-keys": false,
+        "no-console": false
+    },
+    "rules": {
+        "arrow-return-shorthand": true,
+        "no-misused-new": false,
+        "arrow-parens": [
+            true,
+            "ban-single-arg-parens"
+        ],
+        "curly": false,
+        "unnecessary-constructor": false,
+        "prefer-inline-decorator": false,
+        "no-import-side-effect": false,
+        "no-require-imports": false,
+        "switch-default": false,
+        "no-switch-case-fall-through": false,
+        "no-attribute-parameter-decorator": false,
+        "no-return-await": false,
+        "no-parameter-reassignment": false,
+        "no-console": false,
+        "comment-format": [
+            true,
+            "check-space",
+            {"ignore-words": ["TODO"]}
+        ],
+        "no-dynamic-delete": false,
+        "use-view-encapsulation": false,
+        "array-type": false,
+        "file-name-casing": [
+            true,
+            "kebab-case"
+        ],
+        "quotemark": [true, "single"],
+        "prefer-conditional-expression": [
+            false
+            //"check-else-if"
+        ],
+        "no-input-rename": false,
+        "no-output-rename": false,
+        "no-implicit-dependencies": false,
+        "no-forward-ref": false,
+        "no-trailing-whitespace": false,
+        "use-input-property-decorator": false,
+        "no-null-keyword": false,
+        "no-empty": false,
+        "prefer-function-over-method": false,
+        "trailing-comma": false,
+        "object-literal-sort-keys": false,
+        "interface-name": false,
+        "max-line-length": false
+    },
+    "rulesDirectory": []
+}
